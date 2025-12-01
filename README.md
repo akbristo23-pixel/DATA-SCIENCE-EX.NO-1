@@ -36,6 +36,7 @@ STEP 6: Use zscore of to remove outliers
 ![27bfeffaf03143498468a4b1e65b4627 1](https://github.com/user-attachments/assets/a943da08-afc1-4066-88f5-b4a6a8aa3d45)
 
 
+<img width="858" height="307" alt="image" src="https://github.com/user-attachments/assets/f25d11a3-8bbf-496d-b6a7-d9b50b4eb55a" />
 
 
 
@@ -43,4 +44,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-the given cleaned and the outliers has been removed
+The given data cleaned and the outliers has been removed
